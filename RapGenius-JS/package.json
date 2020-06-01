@@ -1,0 +1,26 @@
+{
+  "name": "rapgenius-js",
+  "description": "A client that queries the RapGenius (www.rapgenius.com) website",
+  "version": "0.1.2",
+  "keywords": ["rap", "rock", "rapgenius", "client", "lyrics", "music"],
+  "author": "kenshiro-o",
+  "main": "src/geniusClient",
+  "repository":   {
+    "type": "git",
+    "url": "git://github.com/kenshiro-o/RapGenius-JS.git"
+  },
+  "dependencies": {
+    "superagent": "0.12.x",
+    "cheerio": "0.10.x"
+  },
+  "devDependencies": {
+    "vows": "*",
+    "mocha": "*"
+  },
+  "scripts" : {
+    "test" :  "make test"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
