@@ -124,10 +124,3 @@ var searchCallback = function(err, songs){
 
 rapgeniusClient.searchSong("Liquid Swords", "rap", searchCallback);
 ```
-
-
-## Additional features
-
-  I will work on the following features when I get the time:
-- Refactor code base
-- Improve performance
