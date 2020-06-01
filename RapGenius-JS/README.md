@@ -1,8 +1,3 @@
-# RapGenius-JS [![Build Status](https://travis-ci.org/kenshiro-o/RapGenius-JS.png?branch=master)](https://travis-ci.org/kenshiro-o/RapGenius-JS)
-
-  rapgenius-js is a simple client that enables you to query RapGenius(www.rapgenius.com) and retrieve
-information about rap and rock artists and songs.
-
 ## Rationale
 
   This project was created because RapGenius does currently not support a Node.js API.
@@ -136,7 +131,3 @@ rapgeniusClient.searchSong("Liquid Swords", "rap", searchCallback);
   I will work on the following features when I get the time:
 - Refactor code base
 - Improve performance
-
-## Licence
-
-MIT (Make It Tremendous)
