@@ -1,3 +1,3 @@
-  Rendu projet ORM/API
-  [Groupe A7 Rap World Artist Lead]
-  Pierre LE GRAS, Tiemoko KEITA
+  Rendu projet ORM/API [Groupe A7] :
+  
+   Pierre LE GRAS, Tiemoko KEITA
