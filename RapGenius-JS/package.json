@@ -10,7 +10,7 @@
     "url": "git://github.com/kenshiro-o/RapGenius-JS.git"
   },
   "dependencies": {
-    "superagent": "0.12.x",
+    "superagent": "5.2.x",
     "cheerio": "0.10.x"
   },
   "devDependencies": {
